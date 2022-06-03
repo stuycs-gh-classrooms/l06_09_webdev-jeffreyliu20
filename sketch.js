@@ -1,4 +1,4 @@
-float cx, cy, theta, circolor;
+var cx, cy, theta, circolor;
 function setup() {
   createCanvas(400, 400);
   background(255);
